@@ -8,10 +8,11 @@ public class test01 {
 
 
 
-        mod.name = "สมชาย";
+        mod.name = "armchair";
         System.out.println(mod.name + "สูง " + mod.high);
 
-        med.name = "สมศรี";
+        DtiSAU med = null;
+        med.name = "isomeric";
         med.showHi();
 
     }
